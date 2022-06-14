@@ -1,0 +1,10 @@
+clockwise
+counterclockwise
+down
+empty
+grab
+left
+ok
+open
+right
+up
